@@ -1,3 +1,4 @@
 j'écris une ligne dans mon fichier txt
 Nouvelle ligne de Ema
 nouvelle ligne de julie pour la partie conflit
+Nouvelle ligne Ema dans banche new branch feature
